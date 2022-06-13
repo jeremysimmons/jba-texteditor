@@ -1,0 +1,20 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Counter {
+
+        int count = 0;
+
+        public void inc() {
+            count++;
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2647#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 12 Jun 2022 19:38:19 UTC
+record: -1

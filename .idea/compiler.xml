@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Text_Editor.Text_Editor-task-build-classes-java.main" target="11" />
+      <module name="Text_Editor.Text_Editor-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Text_Editor.Text_Editor-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Text_Editor.Text_Editor-task-build-reports-tests.main" target="11" />
+      <module name="Text_Editor.Text_Editor-task-build-test-results.main" target="11" />
+      <module name="Text_Editor.Text_Editor-task-build-tmp.main" target="11" />
+      <module name="Text_Editor.Text_Editor-task-out.main" target="11" />
+      <module name="Text_Editor.Text_Editor-task.main" target="11" />
+      <module name="Text_Editor.Topics-Custom_threads-Multiple_threads.main" target="11" />
+      <module name="Text_Editor.Topics-Custom_threads-Starting_runnables.main" target="11" />
+      <module name="Text_Editor.Topics-Custom_threads-The_difference_between_start_and_run.main" target="11" />
+      <module name="Text_Editor.Topics-Custom_threads-The_order_of_lines.main" target="11" />
+      <module name="Text_Editor.Topics-Custom_threads-Theory.main" target="11" />
+      <module name="Text_Editor.Topics-Custom_threads-When_will_a_thread_start_performing_a_task.main" target="11" />
+      <module name="Text_Editor.Topics-Default_methods-Resolve_a_diamond_problem.main" target="11" />
+      <module name="Text_Editor.Topics-Default_methods-Theory.main" target="11" />
+      <module name="Text_Editor.Topics-Iterating_over_arrays-Cyclically_shifting_elements.main" target="11" />
+      <module name="Text_Editor.Topics-Iterating_over_arrays-Individual_taxes.main" target="11" />
+      <module name="Text_Editor.Topics-Iterating_over_arrays-Theory.main" target="11" />
+      <module name="Text_Editor.Topics-Iterator_and_Iterable-Finding_the_max_number.main" target="11" />
+      <module name="Text_Editor.Topics-Iterator_and_Iterable-Theory.main" target="11" />
+      <module name="Text_Editor.Topics-Queue_and_Stack-Theory.main" target="11" />
+      <module name="Text_Editor.Topics-Queue_and_Stack-Working_with_queue.main" target="11" />
+      <module name="Text_Editor.Topics-Static_members-About_static_members.main" target="11" />
+      <module name="Text_Editor.Topics-Static_members-Accessing_static_members.main" target="11" />
+      <module name="Text_Editor.Topics-Static_members-Applying_the_static_keyword.main" target="11" />
+      <module name="Text_Editor.Topics-Static_members-Detail_manufacturing.main" target="11" />
+      <module name="Text_Editor.Topics-Static_members-Mystery_of_the_methods.main" target="11" />
+      <module name="Text_Editor.Topics-Static_members-Project_constants_and_methods.main" target="11" />
+      <module name="Text_Editor.Topics-Static_members-Statements.main" target="11" />
+      <module name="Text_Editor.Topics-Static_members-Static_fields.main" target="11" />
+      <module name="Text_Editor.Topics-Static_members-Theory.main" target="11" />
+      <module name="Text_Editor.Topics-Static_members-Time_constants.main" target="11" />
+      <module name="Text_Editor.Topics-Static_members-Too_many_cats.main" target="11" />
+      <module name="Text_Editor.Topics-Thread_management-Ordering_the_execution_of_threads.main" target="11" />
+      <module name="Text_Editor.Topics-Thread_management-Theory.main" target="11" />
+      <module name="Text_Editor.Topics-Thread_management-VeganPizza.main" target="11" />
+      <module name="Text_Editor.Topics-Thread_synchronization-Methods.main" target="11" />
+      <module name="Text_Editor.Topics-Thread_synchronization-Multithreaded_counter.main" target="11" />
+      <module name="Text_Editor.Topics-Thread_synchronization-Theory.main" target="11" />
+      <module name="Text_Editor.Topics-Threads_as_objects-Getting_current_thread_info.main" target="11" />
+      <module name="Text_Editor.Topics-Threads_as_objects-Is_thread_daemon.main" target="11" />
+      <module name="Text_Editor.Topics-Threads_as_objects-Theory.main" target="11" />
+      <module name="Text_Editor.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
